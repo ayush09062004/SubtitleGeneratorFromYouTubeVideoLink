@@ -1,0 +1,1 @@
+This is a source code for extracting sub-titles of Youtube video via its link. Directly paste your youtube video link in URL section of the code & run it on Google Colab. This was made by me for making notes of subjects while reading materials through Youtube. Preferred language for sub-title conversion is English. Thanks!!
